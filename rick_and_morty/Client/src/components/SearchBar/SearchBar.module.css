@@ -1,0 +1,31 @@
+.input {
+    margin-right: 15px;
+    padding: 6px;    background-color: rgba(182, 233, 158, 0.356);
+    font-weight: bold;
+    font-style: italic;
+    border-radius: 10px;
+    color:rgb(133, 102, 102);
+    
+    }
+    .button{
+    background-color: rgba(106, 160, 81, 0.301);
+    color:rgb(141, 134, 128);
+    font-weight: 500;
+    font-style: italic;
+    border: 0px;
+    border-radius: 10px;
+    padding: 6px;
+    &:hover{
+        transition: 300ms;
+        color: rgb(255, 255, 255);
+        background-color: rgb(141, 134, 128);
+    }
+    }
+
+   
+    
+    .button2{
+        background-color: rgba(255, 241, 192);
+        border-radius: 10px;
+        width: 20%;
+    }

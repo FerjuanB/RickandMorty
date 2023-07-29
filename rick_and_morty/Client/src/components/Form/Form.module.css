@@ -1,0 +1,71 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+.img{
+    width: 30%;
+    
+
+}
+.emaillab , .passwlab{
+    text-align: center;
+    /* background-color: rgba(106, 160, 81, 0.671); */
+    width: 80px ;
+    padding: 5px;
+    /* margin-left: 15px;
+    margin-right: 15px; */
+    color:rgb(253, 253, 58);
+    font-weight: 500;
+    font-style: italic;
+    border: solid black 1px;
+    border-radius: 10px;
+    padding: 6px;
+    &:hover{
+        transition: 300ms;
+        color: rgb(255, 255, 255);
+        background-color: rgb(141, 134, 128);
+}}
+.emailinp , .passwinp{
+    background-color: rgba(106, 160, 81, 0.671);
+    width: 200px ;
+    padding: 5px;
+    margin: 25px,0px,25px,0px;
+    color:rgb(185, 184, 183);
+    font-weight: 500;
+    font-style: italic;
+    border: solid black 1px;
+    border-radius: 10px;
+    padding: 6px;
+    &:hover{
+        transition: 300ms;
+        color: rgb(255, 255, 255);
+        background-color: rgb(141, 134, 128);}
+}
+
+.submit{
+   
+    background-color: rgb(141, 134, 128);
+    color: black;
+    width: 80px ;
+    padding: 5px;
+    margin: 25px,5px,25px,0px;
+    color:rgb(185, 184, 183);
+    font-weight: 500;
+    font-style: italic;
+    border: solid black 1px;
+    border-radius: 10px;
+    padding: 6px;
+    &:hover{
+        background-color: rgba(106, 160, 81, 0.671);
+        color: blue;
+        transition: 300ms;
+    }
+}
+.msg {
+    color:beige;
+    font-size: large;
+    background-color: rgba(106, 160, 81, 0.342);
+}

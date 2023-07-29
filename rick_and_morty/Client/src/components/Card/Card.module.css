@@ -1,0 +1,126 @@
+/* .img{
+    
+    padding-left: 2px;
+    padding-right: 2px; 
+    /* position:relative; */
+ 
+/* }
+
+.div{
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 60px;
+    
+
+} */
+/* .h2{
+    
+    background-color: rgba(145, 150, 144, 0.575);    
+    color: rgb(13, 74, 207);
+    font-weight: bolder;
+    font-size:large;
+    text-align: center;
+    width: 12%;
+    border-radius: 10px;
+    margin-top: -5px;
+    margin-left: 100px;
+    /* display: inline; */
+/* 
+} .h4{ */
+    /* background-color: rgba(85, 168, 46, 0.575);    
+    color: rgb(41, 39, 39); */
+    /* display: inline; */
+    /* margin-top: 15px; */
+    /* font-size: medium;
+    border-radius: 10px; */
+
+    
+    /* z-index: ;
+    position: absolute */
+
+
+/* .buttonfav1{
+    border-radius:  5px;
+    border-color: antiquewhite;
+    margin-top: 10px;
+    /* display: block; */
+    /* margin-left: 270px;
+    margin-top: -23px ;
+    margin-bottom: 2px; */
+    /* position: relative; */
+    /* background-color:rgba(145, 150, 144, 0.575);
+    color: rgb(13, 74, 207);
+}  */
+/* .buttonfav2{
+    border-radius:  5px;
+    border-color: antiquewhite;
+    margin-top: 10px;
+    /* display: block; */
+    /* margin-left: 10px;
+    margin-top: -23px ;
+    margin-bottom: 2px;
+    /* position: relative; */
+    /* background-color:rgba(145, 150, 144, 0.575);
+    color: rgba(255, 85, 6, 0.856);  */ 
+ 
+/* .button{
+   
+    border-radius:  5px;
+    border-color: antiquewhite;
+    margin-top: 10px;
+    /* display: block; */
+    /* margin-left: 280px;
+    margin-top: -23px ;
+    margin-bottom: 2px; */
+    /* position: relative; */
+    /* background-color:rgba(145, 150, 144, 0.575);
+    color: rgb(13, 74, 207); */
+    
+    
+ 
+.img {
+    padding-left: 2px;
+    padding-right: 2px;
+  }
+  
+  .div {
+    display: flex;
+  flex-direction:column;
+  align-items: center;
+  text-align: center;
+  }
+  
+  .h2 {
+    background-color: rgba(145, 150, 144, 0.575);
+  color: rgb(13, 74, 207);
+  font-weight: bolder;
+  font-size: 24px;
+  border-radius: 10px;
+  margin-top: -5px;
+  margin-bottom: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  }
+  
+  .h4 {
+    background-color: rgba(85, 168, 46, 0.575);
+  color: rgb(41, 39, 39);
+  font-size: medium;
+  border-radius: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  }
+  
+ .style.div2{
+  display:flex;
+ }
+  .button,
+  .buttonfav2 {
+    display: inline-block;
+    margin: 5px;
+    border-radius: 5px;
+    border-color: antiquewhite;
+    background-color: rgba(145, 150, 144, 0.575);
+    color: rgb(13, 74, 207);
+  }
+  

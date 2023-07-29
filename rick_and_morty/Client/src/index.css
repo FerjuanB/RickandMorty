@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  background-image: url("https://fondosmil.com/descargar/espacio-34254");
+  /* background-repeat: no-repeat; */
+  background-size: 100%;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

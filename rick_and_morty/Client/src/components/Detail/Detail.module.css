@@ -1,0 +1,24 @@
+.img {
+    padding-left: 2px;
+    padding-right: 2px;
+  }
+  
+  .div {
+    display: flex;
+  flex-direction:column;
+  align-items: center;
+  text-align: center;
+  
+  }
+  .h1{
+    color:#E7CEA6;
+    
+    border-radius: 5px;
+  }
+
+.h3{
+
+color: rgb(161, 194, 241);
+margin-top: -10px;
+background-color: #c8cace4d;
+}
