@@ -1,7 +1,6 @@
 import style from './Favorites.module.css'
-import { MapStateToProps, useDispatch, useSelector } from 'react-redux'
+import {  useDispatch, useSelector } from 'react-redux'
 import Card from '../Card/Card'
-import { connect } from 'react-redux'
 import { useEffect } from 'react'
 import {  getFavorites } from '../../redux/actions'
 
@@ -31,4 +30,4 @@ return(
     )}
 
 
-export default connect(MapStateToProps, null)(Fav)
+export default Fav

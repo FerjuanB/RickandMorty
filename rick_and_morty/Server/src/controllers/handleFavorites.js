@@ -1,8 +1,8 @@
 let myFavorites = []
 
 function postFav (req, res){
-    const {body} = req
-myFavorites.push(body)
+    const {Fav} = req.body
+myFavorites.push(Fav)
 return res.status(201).json(myFavorites)
 }
 function deleteFav(req, res){
